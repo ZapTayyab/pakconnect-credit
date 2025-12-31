@@ -1,0 +1,4 @@
+﻿# ml-service/.gitignore
+__pycache__/
+*.pyc
+train/*.joblib
